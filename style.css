@@ -83,3 +83,20 @@ footer {
   text-align: center;
   color: #868686;
 }
+footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+footer li {
+  display: inline-block;
+}
+footer li a {
+  padding: 6px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #c3c3c3;
+}
+footer li a:hover {
+  color: white;
+}
